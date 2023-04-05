@@ -4,7 +4,9 @@ using the Pythagorean theorem.
 
 Made when I was first learning Python. I'm not good at Python by any means, but I plan on remaking this so that the code is more idiomatic. 
 
-**TODO:** Add option to pick from other maps in directory
+**TODO:** 
+          
+          Add option to pick from other maps in directory
           
           Implement party-tracking functionality
           
